@@ -1,2 +1,3 @@
 # hello-world
 My first repository...
+A learner who wants to be a data scientist. 
